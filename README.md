@@ -1,8 +1,15 @@
 # API DE FILMES COM REACT.JS
 
 ![img (1)](https://github.com/renildobsantos/Api-filmes-react/assets/79602519/9519c457-016d-4813-ae78-0b745b9239de)
+
+### Página detalhes
+
 ![img (2)](https://github.com/renildobsantos/Api-filmes-react/assets/79602519/6076ea61-2bf9-43ff-a640-c0ed208be590)
 
+# Escopo do projeto:
+### - Biblioteca Reactjs
+### - Styled-components
+### - https://www.themoviedb.org/
 
 
 
