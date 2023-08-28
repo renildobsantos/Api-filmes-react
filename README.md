@@ -2,7 +2,7 @@
 
 ![img (1)](https://github.com/renildobsantos/Api-filmes-react/assets/79602519/9519c457-016d-4813-ae78-0b745b9239de)
 
-### Página detalhes
+### Página de detalhes
 
 ![img (2)](https://github.com/renildobsantos/Api-filmes-react/assets/79602519/6076ea61-2bf9-43ff-a640-c0ed208be590)
 
